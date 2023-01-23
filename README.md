@@ -51,7 +51,7 @@ I performed the following steps to try and improve the performance (accuracy sco
 * Tested different combinations of hidden layers and number of neurons. <a href="https://www.linkedin.com/pulse/choosing-number-hidden-layers-neurons-neural-networks-sachdev">(Source)</a>
 
 ## Summary 
-The initial model had an accuracy score of 69.7%, and the optimized model currently has an accuracy score of 72.9%. 
+The initial model had an accuracy score of 37.4%, and the optimized model currently has an accuracy score of 72.9%. 
 
 The ELU activation function provided better results. Having more hidden layers and more neurons in total didn't necessarily provide better results. 
 
